@@ -1,0 +1,7 @@
+{
+	"parser":"babel-eslint",
+	"rules":{
+		"max-len":[2,20],
+		"indent":[2,4]
+	}
+}
